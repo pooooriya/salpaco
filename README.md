@@ -57,3 +57,4 @@
 [تجربه](https://tajrobe.github.io)
 [تجربت](https://tajrobat.github.io)
 <a href="https://tajrobat.github.io" rel="follow"></a>
+[![تجربت](https://img.shields.io/github/followers/pooooriya?label=Follow&style=social)](https://tajrobat.github.io)
